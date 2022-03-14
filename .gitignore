@@ -1,5 +1,6 @@
 # Files to not upload to github
 practice.js
+index_1.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
